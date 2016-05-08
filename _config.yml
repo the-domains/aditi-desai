@@ -1,7 +1,7 @@
 name: Aditi Desai
 favicon: null
-layout_spectrum: 0.41692480631172657
-typography_spectrum: 0.09773551160469651
+layout_spectrum: 1
+typography_spectrum: 0.07471
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#F4F482'
   brandStrength: 0.2324733855202794
   lightness: 0.4186526187695563
-  saturation: 0.14562575472518802
-  rhythmicContrast: 0.5468586718197912
+  saturation: 0.0625
+  rhythmicContrast: 0.75
 purpose: []
