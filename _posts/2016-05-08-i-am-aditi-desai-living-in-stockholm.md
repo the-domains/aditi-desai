@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'I am Aditi Desai, living in Stockholm. '
-datePublished: '2016-05-08T22:26:43.885Z'
-dateModified: '2016-05-08T22:22:25.473Z'
+datePublished: '2016-05-08T22:32:45.623Z'
+dateModified: '2016-05-08T22:27:23.357Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-08-i-am-aditi-desai-living-in-stockholm.md
 authors: []
 publisher:
@@ -21,6 +23,6 @@ url: i-am-aditi-desai-living-in-stockholm/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58048afd-c1b4-4d53-97b6-ca1a71ee9d9f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/42edb237bc30787c89133daabe9a76a8aba989c7.jpg)
 
 I am Aditi Desai, living in Stockholm.
