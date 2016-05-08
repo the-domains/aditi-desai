@@ -1,0 +1,28 @@
+name: Aditi Desai
+favicon: null
+layout_spectrum: 0.41692480631172657
+typography_spectrum: 0.09773551160469651
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.2324733855202794
+  lightness: 0.4186526187695563
+  saturation: 0.14562575472518802
+  rhythmicContrast: 0.5468586718197912
+purpose: []
