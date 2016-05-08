@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Keukenhof - The land of Tulips ! '
-datePublished: '2016-05-08T23:13:33.470Z'
-dateModified: '2016-05-08T23:13:21.502Z'
+datePublished: '2016-05-08T23:20:51.600Z'
+dateModified: '2016-05-08T23:20:51.217Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-08-keukenhof-the-land-of-tulips.md
 authors: []
 publisher:
