@@ -1,12 +1,12 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: 'Keukenhof - The land of Tulips ! '
-datePublished: '2016-05-08T23:34:29.093Z'
-dateModified: '2016-05-08T23:33:35.765Z'
+datePublished: '2016-05-08T23:42:16.616Z'
+dateModified: '2016-05-08T23:36:52.291Z'
 title: ''
 author:
   - name: ''
@@ -20,7 +20,7 @@ publisher:
   favicon: null
 starred: false
 url: keukenhof-the-land-of-tulips/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/714f113f-81fc-4c3a-832e-566c3e2faf29.jpg)
