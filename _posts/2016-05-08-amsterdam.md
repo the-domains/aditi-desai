@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Amsterdam '
-datePublished: '2016-05-09T03:49:42.190Z'
-dateModified: '2016-05-09T00:25:12.842Z'
+datePublished: '2016-05-09T03:53:57.293Z'
+dateModified: '2016-05-09T03:52:15.316Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-08-amsterdam.md
@@ -17,8 +18,7 @@ publisher:
   url: null
   favicon: null
 starred: false
-url: amsterdam/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/669e2a96-e883-4e70-b782-dc1d1eb0f066.jpg)
