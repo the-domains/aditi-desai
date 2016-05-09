@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'I am Aditi Desailiving in Stockholm. A biotechnologist with a business degree, born and brought up in India I represent a mix of cultures, traditions, geographies, languages and ideas. The idea of travelling always occupied an important part of my brain but I could never realise it until I took off for my first travel after I moved to Stockholm. And after then it has just been a journey to Self discovery.'
-datePublished: '2016-05-09T00:44:05.608Z'
-dateModified: '2016-05-09T00:44:03.194Z'
+description: 'I am Aditi Desai, living in Stockholm. A biotechnologist with a business degree, born and brought up in India I represent a mix of cultures, traditions, geographies, languages and ideas. The idea of travelling always occupied an important part of my brain but I could never realise it until I took off for my first travel after I moved to Stockholm. And after then it has just been a journey to Self discovery.'
+datePublished: '2016-05-09T01:18:52.183Z'
+dateModified: '2016-05-09T01:18:34.388Z'
 title: ''
 author:
   - name: ''
@@ -23,6 +23,6 @@ url: i-am-aditi-desailiving-in-stockholm-a-biotechnologist-with/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/03737a4b-19da-4538-bde9-976bb662ff9a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a59774e65c026ed1efaa0eed22104635007c5e7d.jpg)
 
-> I am Aditi Desailiving in Stockholm. A biotechnologist with a business degree, born and brought up in India I represent a mix of cultures, traditions, geographies, languages and ideas. The idea of travelling always occupied an important part of my brain but I could never realise it until I took off for my first travel after I moved to Stockholm. And after then it has just been a journey to Self discovery.
+_I am Aditi Desai, living in Stockholm. A biotechnologist with a business degree, born and brought up in India I represent a mix of cultures, traditions, geographies, languages and ideas. The idea of travelling always occupied an important part of my brain but I could never realise it until I took off for my first travel after I moved to Stockholm. And after then it has just been a journey to Self discovery._
