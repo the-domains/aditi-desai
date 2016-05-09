@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: 'Zaanse Schaans ! '
-datePublished: '2016-05-08T23:57:36.640Z'
-dateModified: '2016-05-08T23:35:38.138Z'
+datePublished: '2016-05-09T03:50:08.721Z'
+dateModified: '2016-05-09T00:07:37.887Z'
 title: ''
 author:
   - name: ''
@@ -19,8 +20,7 @@ publisher:
   url: null
   favicon: null
 starred: false
-url: zaanse-schaans/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2139498-a00a-4764-9d15-66bf51e4713b.jpg)
