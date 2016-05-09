@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Travel Diaries '
-datePublished: '2016-05-09T19:11:39.797Z'
-dateModified: '2016-05-09T19:09:24.138Z'
+datePublished: '2016-05-09T19:17:20.520Z'
+dateModified: '2016-05-09T19:11:48.449Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-travel-diary.md
