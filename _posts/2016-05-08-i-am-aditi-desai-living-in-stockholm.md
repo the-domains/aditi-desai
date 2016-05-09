@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'I am Aditi Desailiving in Stockholm. A biotechnologist with a business degree, born and brought up in India I represent a mix of cultures, traditions, geographies, languages and ideas. The idea of travelling always occupied an important part of my brain but I could never realise it until I took off for my first travel after I moved to Stockholm. And after then it has just been a journey to Self discovery.'
-datePublished: '2016-05-09T00:36:21.266Z'
-dateModified: '2016-05-09T00:36:10.032Z'
+datePublished: '2016-05-09T00:44:05.608Z'
+dateModified: '2016-05-09T00:44:03.194Z'
 title: ''
 author:
   - name: ''
