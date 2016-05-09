@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: 'Zaanse Schaans ! '
-datePublished: '2016-05-09T03:54:13.084Z'
-dateModified: '2016-05-09T03:51:21.096Z'
+datePublished: '2016-05-09T04:01:51.258Z'
+dateModified: '2016-05-09T03:54:25.761Z'
 title: ''
 author:
   - name: ''
@@ -23,7 +23,7 @@ starred: false
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2139498-a00a-4764-9d15-66bf51e4713b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e4a47d5ce86afe11d6b4ee11de30b4a1cd635da.jpg)
 
 Zaanse Schaans ! 
 
