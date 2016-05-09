@@ -5,10 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Travel Diaries '
-datePublished: '2016-05-09T19:08:03.491Z'
-dateModified: '2016-05-09T19:08:02.200Z'
+datePublished: '2016-05-09T19:09:15.203Z'
+dateModified: '2016-05-09T19:09:00.862Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-09-travel-diary.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-09-travel-diary.md
 url: travel-diary/index.html
 _type: Article
 
