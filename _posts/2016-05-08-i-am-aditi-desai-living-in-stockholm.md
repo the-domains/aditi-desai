@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: ''
 inLanguage: null
 keywords: []
-description: 'I am Aditi Desai, currently living in Stockholm.I was born in India, a land of diverse cultures, traditions, geographies. I took upto travelling a short while ago and now am addicted to it.'
-datePublished: '2016-05-08T23:18:29.808Z'
-dateModified: '2016-05-08T23:17:41.850Z'
+description: 'I am Aditi Desai,living in Stockholm. A biotechnologist with a business degree, born and brought up in India I represent a mix of cultures, traditions, geographies, languages and ideas. The idea of travelling always occupied an important part of my brain but I could never realise it until I took off for my first travel after I moved to Stockholm. And after then it has just been a journey to Self discovery.'
+datePublished: '2016-05-09T00:07:17.284Z'
+dateModified: '2016-05-08T23:54:41.938Z'
 title: ''
 author:
   - name: ''
@@ -25,4 +25,4 @@ _type: Blurb
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/42edb237bc30787c89133daabe9a76a8aba989c7.jpg)
 
-> I am Aditi Desai, currently living in Stockholm.I was born in India, a land of diverse cultures, traditions, geographies. I took upto travelling a short while ago and now am addicted to it.
+> I am Aditi Desai,living in Stockholm. A biotechnologist with a business degree, born and brought up in India I represent a mix of cultures, traditions, geographies, languages and ideas. The idea of travelling always occupied an important part of my brain but I could never realise it until I took off for my first travel after I moved to Stockholm. And after then it has just been a journey to Self discovery.
