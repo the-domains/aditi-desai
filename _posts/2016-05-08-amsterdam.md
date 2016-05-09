@@ -6,10 +6,12 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Amsterdam '
-datePublished: '2016-05-09T03:53:57.293Z'
-dateModified: '2016-05-09T03:52:15.316Z'
+datePublished: '2016-05-09T04:00:40.789Z'
+dateModified: '2016-05-09T04:00:28.300Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-08-amsterdam.md
 authors: []
 publisher:
@@ -25,6 +27,4 @@ _type: Blurb
 
 Amsterdam 
 
-The city of Canals ! 
-
-Amsterdam literally meaning " the dam on the river Amstel " is a land of the water web.
+The city of Canals !Amsterdam literally meaning " the dam on the river Amstel " is a land of the water web. A place that refuses to sleep. It attracts hoardes of tourists each day making it a hot spot for meeting new people and exploring new possibilities
